@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "appbuoibay": {
+      "hosting": {
+        "AppBuoiBay": [
+          "appbuoibay"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "appbuoibay"
+  }
+}
